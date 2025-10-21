@@ -1,264 +1,621 @@
-
-{"recipes" :[
-  {
-    "id": 1,
-    "title": "Classic Shakshuka",
-    "description": "Poached eggs simmered in a spicy tomato and pepper sauce, a Mediterranean breakfast favorite.",
-    "category": "Breakfast",
-    "imageUrl": "https://images.unsplash.com/photo-1595777216528-071e0127ccbf?w=800&q=80",
-    "prepTime": "10 min",
-    "cookTime": "20 min",
-    "ingredients": [
-      { "item": "Olive oil", "quantity": 2, "unit": "tbsp" },
-      { "item": "Onion, diced", "quantity": 1, "unit": "pc" },
-      { "item": "Red bell pepper, chopped", "quantity": 1, "unit": "pc" },
-      { "item": "Garlic cloves, minced", "quantity": 3, "unit": "pcs" },
-      { "item": "Tomatoes, chopped", "quantity": 4, "unit": "pcs" },
-      { "item": "Tomato paste", "quantity": 1, "unit": "tbsp" },
-      { "item": "Paprika", "quantity": 1, "unit": "tsp" },
-      { "item": "Cumin", "quantity": 0.5, "unit": "tsp" },
-      { "item": "Salt", "quantity": "to taste", "unit": "" },
-      { "item": "Black pepper", "quantity": "to taste", "unit": "" },
-      { "item": "Eggs", "quantity": 4, "unit": "pcs" },
-      { "item": "Fresh parsley, chopped", "quantity": 2, "unit": "tbsp" }
-    ],
-    "steps": [
-      "Heat olive oil in a skillet over medium heat.",
-      "Sauté onion and red pepper until soft.",
-      "Add garlic, tomatoes, and tomato paste; cook until sauce thickens.",
-      "Stir in paprika, cumin, salt, and pepper.",
-      "Make small wells and crack eggs into the sauce.",
-      "Cover and cook until eggs are set.",
-      "Garnish with parsley and serve with bread."
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Creamy Mushroom Pasta",
-    "description": "A quick and comforting pasta with mushrooms, garlic, and cream sauce.",
-    "category": "Lunch",
-    "imageUrl": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80",
-    "prepTime": "15 min",
-    "cookTime": "25 min",
-    "ingredients": [
-      { "item": "Pasta (fettuccine or spaghetti)", "quantity": 250, "unit": "g" },
-      { "item": "Butter", "quantity": 2, "unit": "tbsp" },
-      { "item": "Garlic cloves, minced", "quantity": 2, "unit": "pcs" },
-      { "item": "Mushrooms, sliced", "quantity": 200, "unit": "g" },
-      { "item": "Heavy cream", "quantity": 1, "unit": "cup" },
-      { "item": "Parmesan cheese, grated", "quantity": 0.5, "unit": "cup" },
-      { "item": "Salt", "quantity": "to taste", "unit": "" },
-      { "item": "Black pepper", "quantity": "to taste", "unit": "" },
-      { "item": "Parsley, chopped", "quantity": 1, "unit": "tbsp" }
-    ],
-    "steps": [
-      "Cook pasta according to package instructions and drain.",
-      "Melt butter in a large pan, add garlic and sauté for 30 seconds.",
-      "Add mushrooms and cook until golden.",
-      "Pour in cream and bring to a simmer.",
-      "Add cheese, salt, and pepper; stir until sauce thickens.",
-      "Add pasta to the sauce and mix well.",
-      "Serve hot with parsley on top."
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Greek Salad",
-    "description": "A refreshing salad with cucumbers, tomatoes, olives, feta cheese, and olive oil dressing.",
-    "category": "Salad",
-    "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&q=80",
-    "prepTime": "10 min",
-    "cookTime": "0 min",
-    "ingredients": [
-      { "item": "Cucumber, sliced", "quantity": 1, "unit": "pc" },
-      { "item": "Tomatoes, diced", "quantity": 3, "unit": "pcs" },
-      { "item": "Red onion, thinly sliced", "quantity": 0.5, "unit": "pc" },
-      { "item": "Kalamata olives", "quantity": 0.5, "unit": "cup" },
-      { "item": "Feta cheese, cubed", "quantity": 100, "unit": "g" },
-      { "item": "Olive oil", "quantity": 3, "unit": "tbsp" },
-      { "item": "Lemon juice", "quantity": 1, "unit": "tbsp" },
-      { "item": "Oregano", "quantity": 1, "unit": "tsp" },
-      { "item": "Salt", "quantity": "to taste", "unit": "" },
-      { "item": "Black pepper", "quantity": "to taste", "unit": "" }
-    ],
-    "steps": [
-      "Combine cucumbers, tomatoes, onion, and olives in a large bowl.",
-      "Add feta cubes on top.",
-      "Whisk olive oil, lemon juice, oregano, salt, and pepper.",
-      "Pour dressing over salad and toss gently.",
-      "Serve chilled."
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Chicken Stir Fry",
-    "description": "Quick and colorful stir-fried chicken with vegetables in soy sauce.",
-    "category": "Dinner",
-    "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800&q=80",
-    "prepTime": "15 min",
-    "cookTime": "15 min",
-    "ingredients": [
-      { "item": "Chicken breast, sliced", "quantity": 400, "unit": "g" },
-      { "item": "Soy sauce", "quantity": 3, "unit": "tbsp" },
-      { "item": "Honey", "quantity": 1, "unit": "tbsp" },
-      { "item": "Garlic, minced", "quantity": 2, "unit": "cloves" },
-      { "item": "Ginger, grated", "quantity": 1, "unit": "tsp" },
-      { "item": "Mixed vegetables (bell pepper, broccoli, carrot)", "quantity": 2, "unit": "cups" },
-      { "item": "Sesame oil", "quantity": 1, "unit": "tbsp" }
-    ],
-    "steps": [
-      "Mix soy sauce, honey, garlic, and ginger in a bowl.",
-      "Heat sesame oil in a wok, cook chicken until golden.",
-      "Add vegetables and stir-fry 3–4 minutes.",
-      "Pour sauce and cook until thickened.",
-      "Serve with rice or noodles."
-    ]
-  },
-  {
-    "id": 5,
-    "title": "Banana Pancakes",
-    "description": "Fluffy and sweet pancakes made with ripe bananas and a touch of cinnamon.",
-    "category": "Breakfast",
-    "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80",
-    "prepTime": "10 min",
-    "cookTime": "10 min",
-    "ingredients": [
-      { "item": "Bananas, mashed", "quantity": 2, "unit": "pcs" },
-      { "item": "Eggs", "quantity": 2, "unit": "pcs" },
-      { "item": "Flour", "quantity": 1, "unit": "cup" },
-      { "item": "Milk", "quantity": 0.75, "unit": "cup" },
-      { "item": "Baking powder", "quantity": 1, "unit": "tsp" },
-      { "item": "Cinnamon", "quantity": 0.5, "unit": "tsp" },
-      { "item": "Salt", "quantity": "pinch", "unit": "" },
-      { "item": "Butter for frying", "quantity": 1, "unit": "tbsp" }
-    ],
-    "steps": [
-      "In a bowl, mash bananas and whisk with eggs.",
-      "Add milk, flour, baking powder, cinnamon, and salt; mix to a smooth batter.",
-      "Melt butter in a pan and pour small rounds of batter.",
-      "Cook until bubbles form, flip, and cook until golden.",
-      "Serve with maple syrup or honey."
-    ]
-  },
-  {
-    "id": 6,
-    "title": "Vegetable Soup",
-    "description": "A light and healthy vegetable soup packed with flavor.",
-    "category": "Soup",
-    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&q=80",
-    "prepTime": "15 min",
-    "cookTime": "30 min",
-    "ingredients": [
-      { "item": "Carrots, sliced", "quantity": 2, "unit": "pcs" },
-      { "item": "Potato, diced", "quantity": 1, "unit": "pc" },
-      { "item": "Celery, chopped", "quantity": 2, "unit": "stalks" },
-      { "item": "Onion, diced", "quantity": 1, "unit": "pc" },
-      { "item": "Garlic, minced", "quantity": 2, "unit": "cloves" },
-      { "item": "Vegetable broth", "quantity": 4, "unit": "cups" },
-      { "item": "Tomato paste", "quantity": 1, "unit": "tbsp" },
-      { "item": "Salt and pepper", "quantity": "to taste", "unit": "" }
-    ],
-    "steps": [
-      "Sauté onion, celery, and garlic in a pot.",
-      "Add carrots and potatoes; cook for 5 minutes.",
-      "Pour broth and tomato paste; bring to a boil.",
-      "Reduce heat and simmer until vegetables are soft.",
-      "Season and serve warm."
-    ]
-  },
-  {
-    "id": 7,
-    "title": "Garlic Bread",
-    "description": "Crispy garlic bread with butter, herbs, and a golden crust.",
-    "category": "Side",
-    "imageUrl": "https://images.unsplash.com/photo-1573140401552-388e68f338b4?w=800&q=80",
-    "prepTime": "5 min",
-    "cookTime": "10 min",
-    "ingredients": [
-      { "item": "Baguette, sliced", "quantity": 1, "unit": "pc" },
-      { "item": "Butter, softened", "quantity": 4, "unit": "tbsp" },
-      { "item": "Garlic cloves, minced", "quantity": 3, "unit": "pcs" },
-      { "item": "Parsley, chopped", "quantity": 1, "unit": "tbsp" },
-      { "item": "Salt", "quantity": "pinch", "unit": "" }
-    ],
-    "steps": [
-      "Mix butter, garlic, parsley, and salt.",
-      "Spread on baguette slices.",
-      "Bake at 180°C for 8–10 minutes until golden.",
-      "Serve hot."
-    ]
-  },
-  {
-    "id": 8,
-    "title": "Chocolate Chip Cookies",
-    "description": "Soft, chewy cookies loaded with chocolate chips.",
-    "category": "Dessert",
-    "imageUrl": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&q=80",
-    "prepTime": "15 min",
-    "cookTime": "10 min",
-    "ingredients": [
-      { "item": "Flour", "quantity": 2, "unit": "cups" },
-      { "item": "Butter, softened", "quantity": 1, "unit": "cup" },
-      { "item": "Sugar", "quantity": 0.5, "unit": "cup" },
-      { "item": "Brown sugar", "quantity": 0.5, "unit": "cup" },
-      { "item": "Eggs", "quantity": 2, "unit": "pcs" },
-      { "item": "Vanilla extract", "quantity": 1, "unit": "tsp" },
-      { "item": "Baking soda", "quantity": 1, "unit": "tsp" },
-      { "item": "Salt", "quantity": 0.5, "unit": "tsp" },
-      { "item": "Chocolate chips", "quantity": 1.5, "unit": "cups" }
-    ],
-    "steps": [
-      "Preheat oven to 180°C.",
-      "Cream butter and sugars together.",
-      "Add eggs and vanilla; mix well.",
-      "Stir in flour, baking soda, and salt.",
-      "Fold in chocolate chips.",
-      "Scoop dough onto a baking sheet and bake 10–12 minutes."
-    ]
-  },
-  {
-    "id": 9,
-    "title": "Avocado Toast",
-    "description": "Crunchy toast topped with creamy avocado and optional toppings.",
-    "category": "Snack",
-    "imageUrl": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=800&q=80",
-    "prepTime": "5 min",
-    "cookTime": "0 min",
-    "ingredients": [
-      { "item": "Bread slices", "quantity": 2, "unit": "pcs" },
-      { "item": "Avocado", "quantity": 1, "unit": "pc" },
-      { "item": "Lemon juice", "quantity": 1, "unit": "tsp" },
-      { "item": "Salt and pepper", "quantity": "to taste", "unit": "" },
-      { "item": "Olive oil", "quantity": 1, "unit": "tsp" }
-    ],
-    "steps": [
-      "Toast the bread slices.",
-      "Mash avocado with lemon juice, salt, and pepper.",
-      "Spread on toast and drizzle olive oil.",
-      "Optional: add cherry tomatoes or poached egg."
-    ]
-  },
-  {
-    "id": 10,
-    "title": "Lemonade",
-    "description": "Fresh homemade lemonade with a perfect balance of sweet and sour.",
-    "category": "Drink",
-    "imageUrl": "https://images.unsplash.com/photo-1523677011781-c91d1bbe2f4f?w=800&q=80",
-    "prepTime": "5 min",
-    "cookTime": "0 min",
-    "ingredients": [
-      { "item": "Lemons", "quantity": 4, "unit": "pcs" },
-      { "item": "Water", "quantity": 1, "unit": "liter" },
-      { "item": "Sugar", "quantity": 0.5, "unit": "cup" },
-      { "item": "Ice cubes", "quantity": "as needed", "unit": "" },
-      { "item": "Mint leaves (optional)", "quantity": 5, "unit": "pcs" }
-    ],
-    "steps": [
-      "Squeeze lemons into a pitcher.",
-      "Add sugar and stir until dissolved.",
-      "Pour in cold water and mix well.",
-      "Serve with ice and mint leaves."
-    ]
-  }
-]
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Classic Shakshuka",
+      "description": "Poached eggs simmered in a spicy tomato and pepper sauce, a Mediterranean breakfast favorite.",
+      "category": "Breakfast",
+      "imageUrl": "https://images.unsplash.com/photo-1595777216528-071e0127ccbf?w=800&q=80",
+      "prepTime": "10 min",
+      "cookTime": "20 min",
+      "ingredients": [
+        {
+          "item": "Olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Onion, diced",
+          "quantity": 1,
+          "unit": "pc"
+        },
+        {
+          "item": "Red bell pepper, chopped",
+          "quantity": 1,
+          "unit": "pc"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "item": "Tomatoes, chopped",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "item": "Tomato paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Paprika",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Cumin",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": "to taste",
+          "unit": ""
+        },
+        {
+          "item": "Black pepper",
+          "quantity": "to taste",
+          "unit": ""
+        },
+        {
+          "item": "Eggs",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "item": "Fresh parsley, chopped",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        "Heat olive oil in a skillet over medium heat.",
+        "Sauté onion and red pepper until soft.",
+        "Add garlic, tomatoes, and tomato paste; cook until sauce thickens.",
+        "Stir in paprika, cumin, salt, and pepper.",
+        "Make small wells and crack eggs into the sauce.",
+        "Cover and cook until eggs are set.",
+        "Garnish with parsley and serve with bread."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Creamy Mushroom Pasta",
+      "description": "A quick and comforting pasta with mushrooms, garlic, and cream sauce.",
+      "category": "Lunch",
+      "imageUrl": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80",
+      "prepTime": "15 min",
+      "cookTime": "25 min",
+      "ingredients": [
+        {
+          "item": "Pasta (fettuccine or spaghetti)",
+          "quantity": 250,
+          "unit": "g"
+        },
+        {
+          "item": "Butter",
+          "quantity": 2,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "item": "Mushrooms, sliced",
+          "quantity": 200,
+          "unit": "g"
+        },
+        {
+          "item": "Heavy cream",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Parmesan cheese, grated",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Salt",
+          "quantity": "to taste",
+          "unit": ""
+        },
+        {
+          "item": "Black pepper",
+          "quantity": "to taste",
+          "unit": ""
+        },
+        {
+          "item": "Parsley, chopped",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        "Cook pasta according to package instructions and drain.",
+        "Melt butter in a large pan, add garlic and sauté for 30 seconds.",
+        "Add mushrooms and cook until golden.",
+        "Pour in cream and bring to a simmer.",
+        "Add cheese, salt, and pepper; stir until sauce thickens.",
+        "Add pasta to the sauce and mix well.",
+        "Serve hot with parsley on top."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Greek Salad",
+      "description": "A refreshing salad with cucumbers, tomatoes, olives, feta cheese, and olive oil dressing.",
+      "category": "Salad",
+      "imageUrl": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800&q=80",
+      "prepTime": "10 min",
+      "cookTime": "0 min",
+      "ingredients": [
+        {
+          "item": "Cucumber, sliced",
+          "quantity": 1,
+          "unit": "pc"
+        },
+        {
+          "item": "Tomatoes, diced",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "item": "Red onion, thinly sliced",
+          "quantity": 0.5,
+          "unit": "pc"
+        },
+        {
+          "item": "Kalamata olives",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Feta cheese, cubed",
+          "quantity": 100,
+          "unit": "g"
+        },
+        {
+          "item": "Olive oil",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Lemon juice",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Oregano",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": "to taste",
+          "unit": ""
+        },
+        {
+          "item": "Black pepper",
+          "quantity": "to taste",
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Combine cucumbers, tomatoes, onion, and olives in a large bowl.",
+        "Add feta cubes on top.",
+        "Whisk olive oil, lemon juice, oregano, salt, and pepper.",
+        "Pour dressing over salad and toss gently.",
+        "Serve chilled."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Chicken Stir Fry",
+      "description": "Quick and colorful stir-fried chicken with vegetables in soy sauce.",
+      "category": "Dinner",
+      "imageUrl": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800&q=80",
+      "prepTime": "15 min",
+      "cookTime": "15 min",
+      "ingredients": [
+        {
+          "item": "Chicken breast, sliced",
+          "quantity": 400,
+          "unit": "g"
+        },
+        {
+          "item": "Soy sauce",
+          "quantity": 3,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Honey",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Garlic, minced",
+          "quantity": 2,
+          "unit": "cloves"
+        },
+        {
+          "item": "Ginger, grated",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Mixed vegetables (bell pepper, broccoli, carrot)",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Sesame oil",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        "Mix soy sauce, honey, garlic, and ginger in a bowl.",
+        "Heat sesame oil in a wok, cook chicken until golden.",
+        "Add vegetables and stir-fry 3–4 minutes.",
+        "Pour sauce and cook until thickened.",
+        "Serve with rice or noodles."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Banana Pancakes",
+      "description": "Fluffy and sweet pancakes made with ripe bananas and a touch of cinnamon.",
+      "category": "Breakfast",
+      "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80",
+      "prepTime": "10 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "item": "Bananas, mashed",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "item": "Flour",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Milk",
+          "quantity": 0.75,
+          "unit": "cup"
+        },
+        {
+          "item": "Baking powder",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Cinnamon",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": "pinch",
+          "unit": ""
+        },
+        {
+          "item": "Butter for frying",
+          "quantity": 1,
+          "unit": "tbsp"
+        }
+      ],
+      "steps": [
+        "In a bowl, mash bananas and whisk with eggs.",
+        "Add milk, flour, baking powder, cinnamon, and salt; mix to a smooth batter.",
+        "Melt butter in a pan and pour small rounds of batter.",
+        "Cook until bubbles form, flip, and cook until golden.",
+        "Serve with maple syrup or honey."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Vegetable Soup",
+      "description": "A light and healthy vegetable soup packed with flavor.",
+      "category": "Soup",
+      "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&q=80",
+      "prepTime": "15 min",
+      "cookTime": "30 min",
+      "ingredients": [
+        {
+          "item": "Carrots, sliced",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "item": "Potato, diced",
+          "quantity": 1,
+          "unit": "pc"
+        },
+        {
+          "item": "Celery, chopped",
+          "quantity": 2,
+          "unit": "stalks"
+        },
+        {
+          "item": "Onion, diced",
+          "quantity": 1,
+          "unit": "pc"
+        },
+        {
+          "item": "Garlic, minced",
+          "quantity": 2,
+          "unit": "cloves"
+        },
+        {
+          "item": "Vegetable broth",
+          "quantity": 4,
+          "unit": "cups"
+        },
+        {
+          "item": "Tomato paste",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Salt and pepper",
+          "quantity": "to taste",
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Sauté onion, celery, and garlic in a pot.",
+        "Add carrots and potatoes; cook for 5 minutes.",
+        "Pour broth and tomato paste; bring to a boil.",
+        "Reduce heat and simmer until vegetables are soft.",
+        "Season and serve warm."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Garlic Bread",
+      "description": "Crispy garlic bread with butter, herbs, and a golden crust.",
+      "category": "Side",
+      "imageUrl": "https://images.unsplash.com/photo-1573140401552-388e68f338b4?w=800&q=80",
+      "prepTime": "5 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "item": "Baguette, sliced",
+          "quantity": 1,
+          "unit": "pc"
+        },
+        {
+          "item": "Butter, softened",
+          "quantity": 4,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Garlic cloves, minced",
+          "quantity": 3,
+          "unit": "pcs"
+        },
+        {
+          "item": "Parsley, chopped",
+          "quantity": 1,
+          "unit": "tbsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": "pinch",
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "Mix butter, garlic, parsley, and salt.",
+        "Spread on baguette slices.",
+        "Bake at 180°C for 8–10 minutes until golden.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Chocolate Chip Cookies",
+      "description": "Soft, chewy cookies loaded with chocolate chips.",
+      "category": "Dessert",
+      "imageUrl": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800&q=80",
+      "prepTime": "15 min",
+      "cookTime": "10 min",
+      "ingredients": [
+        {
+          "item": "Flour",
+          "quantity": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "Butter, softened",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "Sugar",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Brown sugar",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Eggs",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "item": "Vanilla extract",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Baking soda",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt",
+          "quantity": 0.5,
+          "unit": "tsp"
+        },
+        {
+          "item": "Chocolate chips",
+          "quantity": 1.5,
+          "unit": "cups"
+        }
+      ],
+      "steps": [
+        "Preheat oven to 180°C.",
+        "Cream butter and sugars together.",
+        "Add eggs and vanilla; mix well.",
+        "Stir in flour, baking soda, and salt.",
+        "Fold in chocolate chips.",
+        "Scoop dough onto a baking sheet and bake 10–12 minutes."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Avocado Toast",
+      "description": "Crunchy toast topped with creamy avocado and optional toppings.",
+      "category": "Snack",
+      "imageUrl": "https://images.unsplash.com/photo-1541519227354-08fa5d50c44d?w=800&q=80",
+      "prepTime": "5 min",
+      "cookTime": "0 min",
+      "ingredients": [
+        {
+          "item": "Bread slices",
+          "quantity": 2,
+          "unit": "pcs"
+        },
+        {
+          "item": "Avocado",
+          "quantity": 1,
+          "unit": "pc"
+        },
+        {
+          "item": "Lemon juice",
+          "quantity": 1,
+          "unit": "tsp"
+        },
+        {
+          "item": "Salt and pepper",
+          "quantity": "to taste",
+          "unit": ""
+        },
+        {
+          "item": "Olive oil",
+          "quantity": 1,
+          "unit": "tsp"
+        }
+      ],
+      "steps": [
+        "Toast the bread slices.",
+        "Mash avocado with lemon juice, salt, and pepper.",
+        "Spread on toast and drizzle olive oil.",
+        "Optional: add cherry tomatoes or poached egg."
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Lemonade",
+      "description": "Fresh homemade lemonade with a perfect balance of sweet and sour.",
+      "category": "Drink",
+      "imageUrl": "https://images.unsplash.com/photo-1523677011781-c91d1bbe2f4f?w=800&q=80",
+      "prepTime": "5 min",
+      "cookTime": "0 min",
+      "ingredients": [
+        {
+          "item": "Lemons",
+          "quantity": 4,
+          "unit": "pcs"
+        },
+        {
+          "item": "Water",
+          "quantity": 1,
+          "unit": "liter"
+        },
+        {
+          "item": "Sugar",
+          "quantity": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Ice cubes",
+          "quantity": "as needed",
+          "unit": ""
+        },
+        {
+          "item": "Mint leaves (optional)",
+          "quantity": 5,
+          "unit": "pcs"
+        }
+      ],
+      "steps": [
+        "Squeeze lemons into a pitcher.",
+        "Add sugar and stir until dissolved.",
+        "Pour in cold water and mix well.",
+        "Serve with ice and mint leaves."
+      ]
+    },
+    {
+      "id": 1761047702828,
+      "title": "aaaa",
+      "description": "bbbbb",
+      "category": "a",
+      "imageUrl": "\"sss\"",
+      "prepTime": "10",
+      "cookTime": "10",
+      "ingredients": [
+        {
+          "item": "q",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "item": "",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "item": "s",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "item": "s",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "item": "r",
+          "quantity": 1,
+          "unit": ""
+        },
+        {
+          "item": "t",
+          "quantity": 1,
+          "unit": ""
+        }
+      ],
+      "steps": [
+        "cook ",
+        "bake"
+      ]
+    }
+  ]
 }
